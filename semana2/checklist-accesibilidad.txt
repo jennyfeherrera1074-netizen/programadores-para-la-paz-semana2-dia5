@@ -23,7 +23,7 @@ Respuesta:si. Ya que solo pide el nombre, correo y la propuesta no piden más da
 Respuesta:si. Permite que las personas escriban tranquilamente
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:si
+Respuesta:si 
 
 8. ¿El botón de envío tiene un texto claro?
 Respuesta:si. El botón explica exactamente que paz al darle clic
